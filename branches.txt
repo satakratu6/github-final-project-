@@ -1,0 +1,4 @@
+git branch -v
+  bug-fix-revert  abc1234 Revert change
+  bug-fix-typo    7f9e2d1 Fix typo in README
+* main            3a2b1c4 Initial commit
